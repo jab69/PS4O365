@@ -1,2 +1,5 @@
 # PS4O365
-Powershell 4 Office365
+# Powershell for Office365
+# Jan Bräuer, August 2016
+
+
